@@ -6,4 +6,6 @@ public class TC2 {
 	
  String name1;
 
+	String name2;
+
 }
